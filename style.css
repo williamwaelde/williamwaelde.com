@@ -7,6 +7,11 @@ html, body {
   color: #222;
 }
 
+
+.ul {
+  text-align: left;
+}
+
 .navbar {
   padding: .8rem;
 
